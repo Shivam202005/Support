@@ -30,7 +30,7 @@ export default function Home() {
       </div>
        <div className="item space-y-3 flex flex-col justify-center items-center">
         <img className="w-[88] bg-slate-500 rounded-full p-2 text-black" src="/group.gif" alt="" />
-        <p className="font-bold">Fans want to help</p>
+        <p className="font-bold">Fans want to Support</p>
         <p className="text-center">Your fans are available for you to help </p>
 
       </div>
