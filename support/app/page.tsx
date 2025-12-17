@@ -25,7 +25,7 @@ export default function Home() {
       <div className="item space-y-3 flex flex-col justify-center items-center">
         <img className="w-[88] bg-slate-500 rounded-full p-2 text-black" src="/coin.gif" alt="" />
         <p className="font-bold">Fans want to help</p>
-        <p className="text-center">Your fans are available for you to help </p>
+        <p className="text-center">Your fans are available to help you</p>
 
       </div>
        <div className="item space-y-3 flex flex-col justify-center items-center">
